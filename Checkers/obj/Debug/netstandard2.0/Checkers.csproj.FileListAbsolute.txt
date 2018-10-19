@@ -16,3 +16,12 @@ C:\_git\Checkers\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.AssemblyInf
 C:\_git\Checkers\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.AssemblyInfo.cs
 C:\_git\Checkers\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.dll
 C:\_git\Checkers\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.pdb
+D:\Workspaces\ai\Devlabs\Checkers\Checkers\bin\Debug\netstandard2.0\Checkers.deps.json
+D:\Workspaces\ai\Devlabs\Checkers\Checkers\bin\Debug\netstandard2.0\Checkers.dll
+D:\Workspaces\ai\Devlabs\Checkers\Checkers\bin\Debug\netstandard2.0\Checkers.pdb
+D:\Workspaces\ai\Devlabs\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.csprojResolveAssemblyReference.cache
+D:\Workspaces\ai\Devlabs\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.csproj.CoreCompileInputs.cache
+D:\Workspaces\ai\Devlabs\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.AssemblyInfoInputs.cache
+D:\Workspaces\ai\Devlabs\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.AssemblyInfo.cs
+D:\Workspaces\ai\Devlabs\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.dll
+D:\Workspaces\ai\Devlabs\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.pdb

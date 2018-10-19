@@ -13,3 +13,8 @@ C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Che
 C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\bin\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.deps.json
 C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\bin\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.dll
 C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\bin\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.pdb
+D:\Workspaces\ai\Devlabs\Checkers\Checkers.DataAccess.Dapper\bin\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.pdb
+D:\Workspaces\ai\Devlabs\Checkers\Checkers.DataAccess.Dapper\bin\Debug\netcoreapp2.0\Checkers.dll
+D:\Workspaces\ai\Devlabs\Checkers\Checkers.DataAccess.Dapper\bin\Debug\netcoreapp2.0\Checkers.pdb
+D:\Workspaces\ai\Devlabs\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.dll
+D:\Workspaces\ai\Devlabs\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.pdb

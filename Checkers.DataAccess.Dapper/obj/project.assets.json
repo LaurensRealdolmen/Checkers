@@ -504,11 +504,10 @@
       ]
     },
     "Microsoft.NETCore.App/2.0.0": {
-      "sha512": "8Lrz5RgmfIUMtpTmGG1Z+nVlCr14bFco/aQdiNYfb7uys37vQ6dVtds9xPIFANVyf6HFePhD9nGmqFcfv5eKMQ==",
+      "sha512": "7UoBfumg8Ls3E5K9PS5hi/7iax3IfuYHMJSBlzhUxGpBZKGZfBqByV4lIHYlM/+FnGLYiQdmwr+LohI8IjI2mw==",
       "type": "package",
       "path": "microsoft.netcore.app/2.0.0",
       "files": [
-        ".signature.p7s",
         "LICENSE.TXT",
         "Microsoft.NETCore.App.versions.txt",
         "THIRD-PARTY-NOTICES.TXT",
@@ -783,11 +782,10 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.0.0": {
-      "sha512": "dYQNVWNBsO9LldqAyJTt/wYUq2BScXq3ENBaNUjELS3sT53mwrgyPpmoLHsE7H10RzYOHEl5G0sg/jpZGlIAzA==",
+      "sha512": "RYoUSKFB+sM0jmL1+5ofWH92dHmwZ/0Wo9UpufiAfMy0FaUM5xI/jX3ReIJ9me82Azi9vW/LGjSrl30EFoKPNg==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.0.0",
       "files": [
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
@@ -796,11 +794,10 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/2.0.0": {
-      "sha512": "uYoVFwvMIp9KtOjW6huBedoBP+50Pny0aIrmJGPoaHJ9anAtrvCjS+iKFR5MIS8amJRKsLc3YEtpT/AYfYmIdA==",
+      "sha512": "4BiE8gnrncHYdjOcyaNhBgYta8Nz85pmptTlqBD/6Id/K7a75EkF7/6F0fP22XsTkT6C7+9GdVM6R9rVEd7Exw==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/2.0.0",
       "files": [
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
@@ -809,11 +806,10 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/2.0.0": {
-      "sha512": "HYXxywd3EaAw1M2K5ox6oUu0NgG90oDIpyq70IBvOf2keNuMJWYTWZUAoTlpv8E0Ks09DA+gczoA64tCdII5Xw==",
+      "sha512": "U8rNfDCbK8oVRB6JGgMzjxTwyAQ4e66JI3kHvc++BcIrIjMjLewdg4ltOWSzdad2a/3xRtUAknlq6L5Pj8OsPg==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/2.0.0",
       "files": [
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
@@ -822,11 +818,10 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.0.0": {
-      "sha512": "5BdAWDgMNwf90L0J+C/eh6kfHDa37ViL1cBL1nv5zPA4TB2cGV51YiQyvzCEy9DBE0LwwMI4+PkUpIekKyocSA==",
+      "sha512": "NPKnfHbm0UeP4SIa+CJD90gmfsnR45Eb+dVDs20bBsr49hPNeE1KYBoP/CaBJWBiPH+2XXzQbgCvraRLuiml3Q==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
@@ -889,11 +884,10 @@
       ]
     },
     "NETStandard.Library/2.0.0": {
-      "sha512": "sn4JwjEN5iNfqc0bd0Qje5oBZBB9wyuNn4GkQvEzfKVnZ3QH0HHoN9exxydlJGptiCMVdAZu7At9TNj0r8Z0yg==",
+      "sha512": "0UbWZjKXtEhuxd3u/n4qC445Y2qH8h4lkFBalGtMDsprUzCxYpitmzktCtu0STKWr6h4XPDZHbwgIUGOYZcg4g==",
       "type": "package",
       "path": "netstandard.library/2.0.0",
       "files": [
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/NETStandard.Library.targets",
@@ -1073,11 +1067,10 @@
       ]
     },
     "System.Data.SqlClient/4.4.0": {
-      "sha512": "yuMDT9o4j0n3XnH7o7EYliyjUYPQ4RBo9tTNA+M6/KQKMcKXKGqHoq2gCb2sEHCRs5HjTwRlwT/F1JVdYaNaDA==",
+      "sha512": "fxb9ghn1k1Ua7FFdlvtiBOD4/PsQvD/fk2KnhS+FK7VC6OggEx6P+lP1P0+KMb5V2dqS1+FbR7HCenoqzJMNIA==",
       "type": "package",
       "path": "system.data.sqlclient/4.4.0",
       "files": [
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -1439,11 +1432,10 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.4.0": {
-      "sha512": "JRxOAH6by+wn1gNnZc9jf2HbO/szhMJuLY2w44nEW77354WntXlFzWSVkx6280Uvcl3URZ/At+444vjX0/X1Aw==",
+      "sha512": "dkmh/ySlwnXJp/1qYP9uyKkCK1CXR/REFzl7abHcArxBcV91mY2CgrrzSRA5Z/X4MevJWwXsklGRdR3A7K9zbg==",
       "type": "package",
       "path": "system.reflection.typeextensions/4.4.0",
       "files": [
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -1859,23 +1851,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LHMAY85\\.nuget\\packages\\": {},
+    "C:\\Users\\EDOBD33\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\_git\\Checkers\\Checkers\\Checkers.DataAccess.Dapper\\Checkers.DataAccess.Dapper.csproj",
+      "projectUniqueName": "D:\\Workspaces\\ai\\Devlabs\\Checkers\\Checkers.DataAccess.Dapper\\Checkers.DataAccess.Dapper.csproj",
       "projectName": "Checkers.DataAccess.Dapper",
-      "projectPath": "C:\\_git\\Checkers\\Checkers\\Checkers.DataAccess.Dapper\\Checkers.DataAccess.Dapper.csproj",
-      "packagesPath": "C:\\Users\\LHMAY85\\.nuget\\packages\\",
-      "outputPath": "C:\\_git\\Checkers\\Checkers\\Checkers.DataAccess.Dapper\\obj\\",
+      "projectPath": "D:\\Workspaces\\ai\\Devlabs\\Checkers\\Checkers.DataAccess.Dapper\\Checkers.DataAccess.Dapper.csproj",
+      "packagesPath": "C:\\Users\\EDOBD33\\.nuget\\packages\\",
+      "outputPath": "D:\\Workspaces\\ai\\Devlabs\\Checkers\\Checkers.DataAccess.Dapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\LHMAY85\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EDOBD33\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1888,8 +1883,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\_git\\Checkers\\Checkers\\Checkers\\Checkers.csproj": {
-              "projectPath": "C:\\_git\\Checkers\\Checkers\\Checkers\\Checkers.csproj"
+            "D:\\Workspaces\\ai\\Devlabs\\Checkers\\Checkers\\Checkers.csproj": {
+              "projectPath": "D:\\Workspaces\\ai\\Devlabs\\Checkers\\Checkers\\Checkers.csproj"
             }
           }
         }
@@ -1905,12 +1900,12 @@
         "dependencies": {
           "Dapper": {
             "target": "Package",
-            "version": "[1.50.5, )"
+            "version": "1.50.5"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
           }
         },
