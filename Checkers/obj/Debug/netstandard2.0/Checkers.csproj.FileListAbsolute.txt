@@ -7,3 +7,12 @@ C:\Users\GVLAZ18\Source\Repos\AiPlayground\Checkers\obj\Debug\netstandard2.0\Che
 C:\Users\GVLAZ18\Source\Repos\AiPlayground\Checkers\obj\Debug\netstandard2.0\Checkers.AssemblyInfo.cs
 C:\Users\GVLAZ18\Source\Repos\AiPlayground\Checkers\obj\Debug\netstandard2.0\Checkers.dll
 C:\Users\GVLAZ18\Source\Repos\AiPlayground\Checkers\obj\Debug\netstandard2.0\Checkers.pdb
+C:\_git\Checkers\Checkers\Checkers\bin\Debug\netstandard2.0\Checkers.deps.json
+C:\_git\Checkers\Checkers\Checkers\bin\Debug\netstandard2.0\Checkers.dll
+C:\_git\Checkers\Checkers\Checkers\bin\Debug\netstandard2.0\Checkers.pdb
+C:\_git\Checkers\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.csprojAssemblyReference.cache
+C:\_git\Checkers\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.csproj.CoreCompileInputs.cache
+C:\_git\Checkers\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.AssemblyInfoInputs.cache
+C:\_git\Checkers\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.AssemblyInfo.cs
+C:\_git\Checkers\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.dll
+C:\_git\Checkers\Checkers\Checkers\obj\Debug\netstandard2.0\Checkers.pdb

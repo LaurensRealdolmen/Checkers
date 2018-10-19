@@ -4,3 +4,12 @@ D:\Workspaces\ai\Devlabs\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreap
 D:\Workspaces\ai\Devlabs\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.csproj.CoreCompileInputs.cache
 D:\Workspaces\ai\Devlabs\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.AssemblyInfoInputs.cache
 D:\Workspaces\ai\Devlabs\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.AssemblyInfo.cs
+C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.csprojAssemblyReference.cache
+C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.csproj.CoreCompileInputs.cache
+C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.AssemblyInfoInputs.cache
+C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.AssemblyInfo.cs
+C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.dll
+C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\obj\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.pdb
+C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\bin\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.deps.json
+C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\bin\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.dll
+C:\_git\Checkers\Checkers\Checkers.DataAccess.Dapper\bin\Debug\netcoreapp2.0\Checkers.DataAccess.Dapper.pdb
