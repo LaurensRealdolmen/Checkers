@@ -9,7 +9,6 @@ namespace Checkers.ConsoleApp
         {
             Console.WriteLine("Hello World!");
             var gameState = new GameState();
-            Console.WriteLine($"Possible moves: {gameState.GetAllMoves()}.");
             Console.WriteLine($"Game state overview: {gameState}.");
             Console.ReadKey();
         }
