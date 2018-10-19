@@ -9,26 +9,30 @@ namespace Checkers.DataAccess.Dapper
 {
     public class StateRepository
     {
-        private const string connectionString = @"Server=(localdb)\cherckers;Integrated Security=true;";
+        private const string connectionString = @"Server=localhost\SQLEXPRESS01;Database=Checkers;Trusted_Connection=True;";
 
-        public IEnumerable<string> GetStates()
+        public List<StateValue> GetStates()
         {
-            var sql = @"SELECT Value FROM States";
+            const string sql = @"SELECT * FROM States";
 
             using (var connection = new SqlConnection(connectionString))
             {
-                return connection.Query<string>(sql).AsList() ;
+                return connection.Query<StateValue>(sql).AsList() ;
             }
         }
 
-        public void SaveState( int id, string state)
+        public void SaveState(string state, double value)
         {
-            var sql = "INSERT INTO States (Value) Values (@Value)";
-            
+            const string sql = "INSERT INTO States (State, Value) Values (@State, @Value)";
+
             using (var connection =  new SqlConnection(connectionString))
             {
                 connection.Open();
-                connection.Execute(sql, state);
+                connection.Execute(sql, new
+                {
+                    State = state,
+                    Value = value
+                });
             }
         }
     }

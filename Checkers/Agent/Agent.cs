@@ -10,27 +10,28 @@ namespace Checkers.Agent
     {
         private Random _rnd;
         private double _learn;
-        private List<StateValue> _states;
+        public List<StateValue> States { get; }
         private double v;
         private List<StateValue> list;
+        private IEnumerable<string> enumerable;
 
         public Agent(double learnRate, List<StateValue> previousStates)
         {
             _rnd = new Random();
             _learn = learnRate;
-            _states = previousStates;
+            States = previousStates;
         }
 
         public Move DoSomething(GameState state)
         {
             Move selectedMove = null;
             var rnd = _rnd.NextDouble();
-            var currentState = _states.FirstOrDefault(x => x.GameState.Equals(state.ToString()));
+            var currentState = States.FirstOrDefault(x => x.State.Equals(state.ToString()));
             if(currentState == null)
             {
-                currentState = new StateValue { GameState = state.ToString(), Value = 0.5 };
+                currentState = new StateValue { State = state.ToString(), Value = 0.5 };
 
-                _states.Add(currentState);
+                States.Add(currentState);
             }
             var allMoves = state.GetAllMoves();
             if (rnd < _learn)
@@ -43,7 +44,7 @@ namespace Checkers.Agent
             {
                     var newState = state.MakeMove(move);
                     var newStateString = newState.ToString();
-                    var found = _states.FirstOrDefault(x => x.GameState.Equals(newStateString));
+                    var found = States.FirstOrDefault(x => x.State.Equals(newStateString));
                     if (found == null)
                     {
                         PieceColor winner;
@@ -51,10 +52,10 @@ namespace Checkers.Agent
                         var value = newState.HasWinner(out winner) ? winner == PieceColor.White ? 1 : 0 : 0.5;
                         found = new StateValue
                         {
-                            GameState = newStateString,
+                            State = newStateString,
                             Value = value,
                         };
-                        _states.Add(found);
+                        States.Add(found);
                     }
 
                 found.Move = move;
@@ -66,6 +67,7 @@ namespace Checkers.Agent
             currentState.Value = (currentState.Value + bestState.Value) / 2;
             return bestState.Move;
         }
+
 
     }
 }

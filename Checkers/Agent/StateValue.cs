@@ -8,7 +8,7 @@ namespace Checkers
 {
     public class StateValue
     {
-        public string GameState { get; set; }
+        public string State { get; set; }
         public double Value { get; set; }
         public Move Move { get; set; }
     }
